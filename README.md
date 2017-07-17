@@ -16,5 +16,8 @@ var numberToWord = require('npm-number-to-word');
 numberToWord.getNumber(596593); // => “five lakhs ninety six thousand five hundred ninety three”
 ```
 
+## License
+This project is licensed under the MIT License.
+
 ##### 1.0.0
 - Initial release
