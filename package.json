@@ -1,6 +1,6 @@
 {
   "name": "npm-number-to-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert number to word",
   "main": "index.js",
   "scripts": {
