@@ -91,4 +91,4 @@ function get_number_to_word(inputNumber, resultNumber) {
 }
 
 
-module.exports.getNumber = getNumber;
+module.exports = getNumber;

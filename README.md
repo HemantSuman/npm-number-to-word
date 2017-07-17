@@ -13,7 +13,7 @@ Converts an number into a string.
 ```js
 
 var numberToWord = require('npm-number-to-word');
-numberToWord.getNumber(596593); // => “five lakhs ninety six thousand five hundred ninety three”
+numberToWord(596593); // => “five lakhs ninety six thousand five hundred ninety three”
 ```
 
 ## License
