@@ -1,0 +1,11 @@
+{
+  "name": "npm-number-to-word",
+  "version": "1.0.0",
+  "description": "Convert number to word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemant Suman <hemantsuman177@gmail.com>",
+  "license": "MIT"
+}
