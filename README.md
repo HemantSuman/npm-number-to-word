@@ -8,8 +8,6 @@ Contains some function for converting numbers into words.
 
 ### API
 
-#### `getNumber(number)`
-Converts an number into a string.
 ```js
 
 var numberToWord = require('npm-number-to-word');
