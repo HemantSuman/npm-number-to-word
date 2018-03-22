@@ -17,5 +17,5 @@ numberToWord(596593); // => “five lakhs ninety six thousand five hundred ninet
 ## License
 This project is licensed under the MIT License.
 
-##### 1.0.0
+##### 1.0.4
 - Initial release
