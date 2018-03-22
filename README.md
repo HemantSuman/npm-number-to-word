@@ -1,9 +1,9 @@
-# Convert Number To Words
-Contains some function for converting numbers into words.
+# Convert Number To Word
+Contains some function for converting numbers into word.
 
 
 ### Install
-`npm install npm-number-to-words`
+`npm install npm-number-to-word`
 
 
 ### API
